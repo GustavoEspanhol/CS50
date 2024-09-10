@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+    <link href="home.css" rel="stylesheet">
+        <title>
+            home
+        </title>
+    </head>
+    <body style="text-align: center">
+       <div style="font-size: large">
+        Jonh Harvard
+       </div>
+       <div style="font-size: medium">
+        Welcome to my home page!
+       </div>
+       <div style="fornt-size: small">
+        Copyright
+       </div>
+    </body>
+</html>

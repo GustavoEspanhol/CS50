@@ -1,0 +1,23 @@
+Flask and stuff
+
+app web
+{
+    takes input and generate output generally
+}
+
+https://www.example.com/.....ROUTE
+{
+    route => mapping to the URL for the website server
+}
+
+input on URL
+{
+    ex: https://www.example.com/route?key=value&wkey=value
+}
+
+request
+{
+    
+}
+
+

@@ -1,0 +1,209 @@
+routers
+(
+    device designed to be the fast way to get information from point a to point b
+)
+
+TCP/IP
+(
+    packets => envelopes os data on internet conections
+
+    ip adress: #.#.#.# , # -> number from 0 to 255
+
+)
+
+DNS
+(
+    like a dictionary of domain names and ther correspondent IP adress
+)
+
+DHCP
+(
+    answer questions like: "what ip adress should i use for my dns server and for my router?"
+)
+
+HTTP
+(
+    The client (usually a web browser) sends an HTTP request to the server, which then processes the request
+    and sends back the appropriate response (such as a web page, image, or other resources).
+
+    https://www.example.com/folder
+
+    /folder => path of folders
+    www.example.com => domain name
+)
+
+HTML
+(
+    language to web develop
+
+    tags => mock the body of a website
+
+    <meta>
+    {
+        is used to provide metadata about the HTML document.
+        Metadata is information about the data (in this case, information about the web page)
+    }
+    {
+        <meta  name="viewport" content="width=device-width, intial-scale=1.0"
+        [make it portable on mobile]
+    }
+
+    <h1,2,3,4,...,6>
+    {
+        header tag it's just stylistic
+    }
+
+    <p>
+    {
+        paragraph tag
+    }
+
+    <i>
+    {
+        italic tag
+    }
+
+    <b>
+    {
+        negrito/bold tag
+    }
+
+    <hr>
+    {
+        cria uma linha horizontal cruzando a pagina
+    }
+
+    <big> and <small>
+    {
+        auto explicativo
+    }
+
+    <sub> and <sup>
+    {
+        example: H20 and 10²
+    }
+
+    -how to create a link?
+    <a href="https://www.google.com" target="_blank">Google's Homepage</a>
+    {
+        link a page: <a href="directory/page2.hmtl">Page2</a>
+    }
+    {
+        link a file:<a href="cat.jpg"> cat </a>
+    }
+
+    <img src="link of the image" alt="backup image or a descript text"/>
+    {
+        display an image from the internet on the website
+    }
+
+    <img  width="100" src="file of the image"/>
+    {
+        display an image from your computer on the website
+    }
+
+    <video src="video file"  loop controls> Cant display </video>
+    {
+        display a video from your computer on the website
+    }
+
+    < just go to share buttom on youtube >
+    {
+        display a video from youtube on  your computer
+    }
+
+    <ul> and <ol>
+    {
+        unordered and ordered lists
+    }
+
+    <span>
+    {
+        in line elements container
+    }
+
+    <div>
+    {
+        block elements container
+    }
+
+
+
+
+
+)
+
+Regular Expressions
+(
+    pattern look crypted but means something
+)
+
+CSS
+(
+    It is a stylesheet language used to describe the presentation of
+    a document written in HTML
+
+    -MODELO DE SYNTAX:
+    selector {
+        property1: value;
+        property2: value;
+    }
+
+)
+JavaScript
+(
+
+    JavaScript is a high-level, interpreted programming language that
+    is widely used to make web pages interactive and dynamic.
+
+
+    -event: anything that the user does
+
+    -querySelector: look trough an html page an extract a element
+
+
+     // Eventos de Mouse:
+
+    click: Disparado quando o usuário clica em um elemento.
+    dblclick: Disparado quando o usuário faz um duplo clique em um elemento.
+    mouseover: Disparado quando o ponteiro do mouse passa sobre um elemento.
+    mouseout: Disparado quando o ponteiro do mouse sai de um elemento.
+    mousedown: Disparado quando o botão do mouse é pressionado.
+    mouseup: Disparado quando o botão do mouse é liberado.
+    mousemove: Disparado quando o ponteiro do mouse se move dentro de um elemento.
+
+Eventos de Teclado:
+
+    keydown: Disparado quando uma tecla é pressionada.
+    keyup: Disparado quando uma tecla é liberada.
+    keypress: Disparado quando uma tecla é pressionada e liberada (não é recomendado para novos projetos, use keydown e keyup).
+
+Eventos de Formulário:
+
+    submit: Disparado quando um formulário é enviado.
+    change: Disparado quando o valor de um elemento <input>, <select>, ou <textarea> muda.
+    focus: Disparado quando um elemento ganha foco.
+    blur: Disparado quando um elemento perde o foco.
+
+Eventos de Janela:
+
+    load: Disparado quando a página e todos os seus recursos (imagens, scripts, etc.) são totalmente carregados.
+    resize: Disparado quando a janela do navegador é redimensionada.
+    scroll: Disparado quando a página ou um elemento com barra de rolagem é rolado.
+    unload: Disparado quando o usuário está prestes a sair da página.
+
+Outros Eventos Comuns:
+
+    contextmenu: Disparado quando o botão direito do mouse é clicado, geralmente para abrir um menu de contexto.
+    input: Disparado cada vez que o valor de um <input> ou <textarea> muda.
+    wheel: Disparado quando o usuário gira a roda do mouse.
+    drag: Disparado enquanto um elemento está sendo arrastado.
+
+
+
+
+)
+
+
+
+
