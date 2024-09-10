@@ -1,0 +1,28 @@
+IF SONGS.DB CONTAIS THE TOP 100 SONGS OF ONE LISTENER FROM 2018, HOW WOULD YOU CHARACTERIZE
+THEIR AUDIO AURA?
+
+The person's music listening preferences based on avarage energy, valence and danceability
+
+ENERGY = 0.659
+
+VALENCE = 0.484
+
+
+DANCEABILITY = 0.716
+
+CONCLUSION
+{
+    The valence of music that the user listened to was avarage.Showin that the usar listens
+    to both happy and sad music.Hence.I would conclute the user is from the BLUE mood group.
+    This person seeks out music to feel their feelings out loud.
+}
+
+HYPOTHEIZE ABOUT WHY THE WAY YOU'VE CALCULATED THIS AURA MIGHT NOT BE VERY REPRESENTATIVE OF
+THEIR LISTENER.WHAT BETTER WAYS OF CALCULATING THIS AURA WOULD YOU PROPOSE?
+
+ The data from this top 100 songs, might not give accurate information of the user, we might
+ need to have more data from what the user is listening to.
+
+
+
+
