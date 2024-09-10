@@ -1,0 +1,204 @@
+.centralizado {
+    text-align: center;
+}
+
+.negrito {
+    font-weight: 700;
+}
+
+.super-negrito {
+    font-weight: 900;
+}
+
+.apresentação {
+    background-color: transparent;
+    position: relative;
+    right:30px;
+    border: red;
+    margin-top: 180px;
+    margin-right: 240px;
+    font-size: 50px;
+    font-family: Helvetica;
+    letter-spacing: -1px;
+    word-spacing: -2px;
+    line-height: 1.4;
+    display: inline-block;
+
+}
+
+.nav-tab {
+    position: sticky; /* acompanha o scrowdown até o fim do seu container */
+    height: 100px;
+    background-color: white;
+    font-family: Helvetica;
+
+}
+
+.imagem-maneira {
+    position: relative;
+    left: 60px;
+    background-color: transparent;
+    display: inline-block;
+    margin-top: 110px;
+    margin-left: 130px;
+}
+
+.imagemzinha {
+    position: relative;
+    right:10px;
+    top: 10px;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+
+.pai {
+    display: flex;
+    justify-content: center;
+    align-content: flex-end;
+}
+
+ a.about {
+    position: relative;
+    left: 1520px;
+    top: 25px;
+    display: inline-block;
+    font-size: 22px;
+    text-decoration: none;
+    color: black;
+ }
+ a.about:hover{
+    color: orange;
+ }
+
+
+a.work {
+    position: relative;
+    left: 1300px;
+    top: 25px;
+    font-size: 22px;
+    text-decoration: none;
+    color: black;
+}
+
+a.work:hover {
+    color: orange;
+}
+
+
+a.home {
+    position: relative;
+    left: 1070px;
+    top: 25px;
+    font-size: 22px;
+    text-decoration: none;
+    color: black;
+
+}
+a.home:hover {
+    color: orange;
+
+}
+
+.ponto {
+    height: 13px;
+    width: 13px;
+    background-color: orange;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 40px;
+    top: 23px;
+}
+
+.square{
+    height: 25px;
+    width: 25px;
+    background-color: blue;
+    position: relative;
+    left: 165px;
+    top: 85px;
+
+}
+.sobre {
+    font-size:35px;
+    margin-left:200px;
+    margin-top: 45px;
+    word-spacing: -1px;
+    letter-spacing:-1px;
+    font-family: Helvetica;
+
+
+}
+
+.textin {
+    font-size: 27px;
+    font-family: Helvetica;
+    position: relative;
+    left: 240px;
+    top: 20px;
+    font-weight: medium;
+
+}
+
+.listinha {
+    font-size: 27px;
+    font-family: Helvetica;
+    display: inline-block;
+    position: relative;
+    left: 1200px;
+    bottom:360px;
+    line-height: 1.8;
+}
+
+.triangule {
+    width: 0;
+    height: 0;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 50px solid green;
+    position: relative;
+    left: 25px;
+    top: 30px;
+}
+
+.contato {
+    font-size: 25px;
+    font-family: Helvetica;
+    margin-left: 60px;
+}
+
+.padrão {
+    font-family: Helvetica;
+    color: black;
+    margin-bottom: 60px;
+}
+
+.square2{
+    height: 35px;
+    width: 35px;
+    background-color: blue;
+    position: relative;
+    left: 50px;
+    top: 2px;
+    display: inline-block;
+}
+
+.educação {
+    margin-left: 80px;
+    font-size: 30px;
+    display: inline-block;
+}
+
+a.github {
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 105px;
+    font-size: 35px;
+    display: inline-block;
+    font-weight: bold;
+
+}
+a.github:hover {
+    color: orange;
+}

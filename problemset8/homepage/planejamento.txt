@@ -1,0 +1,28 @@
+site estilo portfolio: https://www.sophiebritt.com/
+
+
+nav-tab
+{
+     open button, menu(home button, work/academic button, about button) and contact area
+
+}
+
+open page
+{
+    -image and some presentation text
+}
+
+about session:
+{
+    some presentation (what im interested and what im learning)
+}
+
+work/academic session:
+{
+    projects and certifieds
+}
+
+contact area:
+{
+    my infomations for contact
+}
